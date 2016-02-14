@@ -1,0 +1,15 @@
+all:
+	g++ Ch3Ex1.cpp -o Ch3Ex1.o
+	./Ch3Ex1.o
+	g++ Ch3Ex5.cpp -o Ch3Ex5.o
+	./Ch3Ex5.o
+	g++ Ch4Ex2.cpp -o Ch4Ex2.o
+	./Ch4Ex2.o
+	g++ Ch4Ex4.cpp -o Ch4Ex4.o
+	./Ch4Ex4.o
+	g++ Ch4Ex11.cpp -o Ch4Ex11.o
+	./Ch4Ex11.o
+	g++ Ch5Ex2.cpp -o Ch5Ex2.o
+	./Ch5Ex2.o
+	g++ Ch5Ex4.cpp -o Ch5Ex4.o
+	./Ch5Ex4.o
